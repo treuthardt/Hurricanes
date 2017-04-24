@@ -5,6 +5,7 @@ All images are sourced from NOAA's GOES satellite Imager, through [CLASS](https:
 * * *
 <details>
   <summary>1995</summary>
+  hurricanes here
 </details>
 <details>
   <summary>1996</summary>
