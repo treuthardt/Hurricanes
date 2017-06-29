@@ -67,3 +67,15 @@ All images are sourced from NOAA's GOES satellite Imager, through [CLASS](https:
 <details>
   <summary>2015</summary>
 </details>
+
+CODE PACKAGE
+------------
+
+  In order to prepare these files for analysis in P2DFFT, there is a set of 
+programs provided in a tar archive.  See the README.txt in the package for
+more detailed information.
+
+Versions
+--------
+
+Hurricane-3.0.tgz - Version 3.0 for Python 3.x
